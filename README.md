@@ -77,5 +77,6 @@ if __name__ == "__main__":
     print(f"Results for '{query1}': {indexer.boolean_search(query1)}")
 
 ### Output:
+![image](https://github.com/user-attachments/assets/20622a46-7531-4881-840b-2879a2456288)
 
 ### Result:
